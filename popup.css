@@ -1,0 +1,25 @@
+body {
+  position: relative;
+  overflow: hidden;
+  width: 200px;
+  background-image: url('./pentagram.png');
+  background-size: 20px;
+  cursor: crosshair;
+  font-family: 'Lato', sans-serif;
+}
+
+a {
+  font-size: 14px;
+  letter-spacing: 2px;
+  display: block;
+  text-align: center;
+  padding: 4px;
+  margin-bottom: 4px;
+  color: white;
+  background: rgba(0,0,0,0.6);
+  transition: 0.5s;
+}
+
+a:hover {
+  background: rgba(0,0,0,1);
+}
