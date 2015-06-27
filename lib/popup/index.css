@@ -2,7 +2,7 @@ body {
   position: relative;
   overflow: hidden;
   width: 200px;
-  background-image: url('./pentagram.png');
+  background-image: url('./../../pentagram.png');
   background-size: 20px;
   cursor: crosshair;
   font-family: 'Lato', sans-serif;
