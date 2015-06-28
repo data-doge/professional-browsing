@@ -19,6 +19,7 @@
         "./lib/content_scripts/diglettFuckdown.js",
         "./lib/content_scripts/rotator.js",
         "./lib/content_scripts/scrambler.js",
+        "./lib/content_scripts/shaker.js",
         "./lib/content_scripts/index.js"
       ]
     }
